@@ -21,7 +21,7 @@
 <a href="https://instagram.com/ashis_moharna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashis_moharna" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashis_moharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashis_moharana" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/ashis_moharana/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="ashis_moharana" height="30" width="40" /></a>
-<a href="https://codolio.com/" target="blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="ashis_moharana" height="30" width="40" /> </a>
+<a href="https://codolio.com/profile/Ashis_Moharana" target="blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="ashis_moharana" height="30" width="40" /> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
