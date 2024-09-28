@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">Hi 👋, I'm Ashis Moharana</h1>
-<h3 align="center">A passionate competitive coder, from Odisha.</h3>
+<h3 align="center">A passionate competitive Programmer, from Odisha.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashis1k0&label=Profile%20views&color=0e75b6&style=flat" alt="ashis1k0" /> </p>
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/ashismoharana10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashismoharana10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ashis-moharana-269087245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashis-moharana-269087245" height="30" width="40" /></a>
-<a href="https://instagram.com/ashis_moharna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashis_moharna" height="30" width="40" /></a>
+<a href="https://instagram.com/ashis_moharana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashis_moharana" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ashis_moharana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashis_moharana" height="30" width="40" /></a>
 <a href="https://www.geeksforgeeks.org/user/ashis_moharana/" target="blank"><img align="center" src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" alt="ashis_moharana" height="30" width="40" /></a>
 <a href="https://codolio.com/profile/Ashis_Moharana" target="blank"><img align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="ashis_moharana" height="30" width="40" /> </a>
